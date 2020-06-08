@@ -1,0 +1,31 @@
+.form {
+    border:1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 3px grey;
+    margin-top: 50px;
+    width:400px;
+    margin:0 auto;      
+}
+
+.form form{
+    padding:50px;
+ 
+}
+
+.form label{
+font-size: 18px;
+}
+
+
+.form select,input {
+    width: 150px;
+    float: right;
+    text-align: center;
+    padding:3px;
+}
+
+
+
+
+
+    
